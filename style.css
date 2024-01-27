@@ -9,7 +9,7 @@ h2 {
     font-size: 30px;
     text-align: center;
     padding: 20px 20px;
-    color: #FF7F50;
+    color: blue;
 
 }
 
@@ -18,7 +18,7 @@ h1 {
     text-align: center;
     margin: 0;
     padding: 20px 20px;
-    color: #FF7F50;
+    color: blue;
     text-shadow: 3px 3px 1px rgb(249, 245, 248);
 }
 
