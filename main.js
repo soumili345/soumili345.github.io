@@ -2,10 +2,10 @@ const myImage = document.querySelector("img");
 
 myImage.onclick = () => {
   const mySrc = myImage.getAttribute("src");
-  if (mySrc === "images/headshot.jpg") {
-    myImage.setAttribute("src", "images/king-julian.jpg");
+  if (mySrc === "headshot.jpg") {
+    myImage.setAttribute("src", "king-julian.jpg");
   } else {
-    myImage.setAttribute("src", "images/headshot.jpg");
+    myImage.setAttribute("src", "headshot.jpg");
   }
 };
 
