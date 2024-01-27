@@ -1,7 +1,7 @@
 html    {
     font-size: 12px; 
     font-family: "Fira Sans"; 
-    background-color: #be82ae ;
+    background-color: #ebf1eb ;
 
 }
 
@@ -9,7 +9,7 @@ h2 {
     font-size: 30px;
     text-align: center;
     padding: 20px 20px;
-    color: blue;
+    color: #FF0000;
 
 }
 
@@ -18,7 +18,7 @@ h1 {
     text-align: center;
     margin: 0;
     padding: 20px 20px;
-    color: blue;
+    color: #FF0000;
     text-shadow: 3px 3px 1px rgb(249, 245, 248);
 }
 
