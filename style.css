@@ -2,12 +2,14 @@ html    {
     font-size: 12px; 
     font-family: "Fira Sans"; 
     background-color: #be82ae ;
+
 }
 
 h2 {
     font-size: 30px;
     text-align: center;
     padding: 20px 20px;
+    color: #9F2B68;
 
 }
 
@@ -16,7 +18,7 @@ h1 {
     text-align: center;
     margin: 0;
     padding: 20px 20px;
-    color: #2a0220;
+    color: #9F2B68;
     text-shadow: 3px 3px 1px rgb(249, 245, 248);
 }
 
